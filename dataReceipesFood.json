@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "category": "desserts",
+        "name": "Tiramisu",
+        "img": "https://res.cloudinary.com/dky2vpnyr/image/upload/v1649898608/FoodAPI/tiramisu.jpg",
+        "ingredients": ["100 gr de sucre roux", "1 sachet de sucre vanillé", "24 biscuits à la cuillère", "30 gr de cacao amer", "3 oeufs", "250 gr de mascarpone", "50 cl de café noir"],
+        "preparationTime": 15,
+        "preparationSteps": ["Étape 1: Séparer les blancs des jaunes d'oeufs.", "Étape 2 : Mélanger les jaunes avec le sucre roux et le sucre vanillé.", "Étape 3 : Ajouter le mascarpone au fouet.", "Étape 4 : Monter les blancs en neige et les incorporer délicatement à la spatule au mélange précédent. Réserver.", "Étape 5 : Mouiller les biscuits dans le café rapidement avant d'en tapisser le fond du plat.", "Étape 6 : Recouvrir d'une couche de crème au mascarpone puis répéter l'opération en alternant couche de biscuits et couche de crème en terminant par cette dernière.", "Étape 7 : Saupoudrer de cacao.", "Étape 8 : Mettre au réfrigérateur 4 heures minimum puis déguster frais."]
+    },
+    {
+        "id": "2",
+        "category": "desserts",
+        "name": "Mousse au Chocolat",
+        "img": "https://res.cloudinary.com/dky2vpnyr/image/upload/v1649899399/FoodAPI/mousseAuChocolat.jpg",
+        "ingredients": ["200 gr de chocolat noir 70 %", "6 oeufs"],
+        "preparationTime": 30,
+        "preparationSteps": ["Étape 1 : Séparer les blancs des jaunes d'oeufs.", "Étape 2 : Faire fondre au bain marie le chocolat, et le laisser refroidir avant d'incorporer les jaunes.", "Étape 3 : Monter les blancs en neige. Incorporer en 2 fois, une première fois vigoureusement et une seconde délicatement.", "Étape 4 : Mettre dans un récipient et laisser prendre au moins 2 heures."]
+    },
+    {
+        "id": "3",
+        "category": "desserts",
+        "name": "Gâteau au yaourt",
+        "img": "https://res.cloudinary.com/dky2vpnyr/image/upload/v1649900087/FoodAPI/gateauAuYaourt.jpg",
+        "ingredients": ["1⁄2 paquet de levure chimique", "1⁄2 pot d'huile de colza", "2 pots de sucre semoule", "3 pots de farine", "1 zeste de citron jaune", "1 pot de yaourt nature", "2 oeufs"],
+        "preparationTime": 45,
+        "preparationSteps": ["Étape 1 : Préchauffer le four à 180°C (thermostat 6).", "Étape 2 : Mélanger tout simplement les ingrédients un à un en suivant l'ordre suivant : levure, ensuite le yaourt, suivit de l'huile de colza, puis le sucre, ensuite la farine, suivit de l'oeuf et du zeste de citron.", "Étape 3 : Beurrer ou huilez un moule à manqué à l'aide d'une feuille de papier essuie-tout et y verser la pâte.", "Étape 4 : Enfourner pour environ 30 minutes de cuisson.", "Étape 5 : Vérifier la cuisson avec la pointe d'un couteau (elle doit ressortir sèche)."]
+    }
+]
